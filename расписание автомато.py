@@ -3,7 +3,7 @@ import requests as r
 from datetime import datetime, timedelta
 import schedule
 
-token = '6606763517:AAH-xjYFkQczrrJv2R9qqC_A3tRuf_2daNY'
+token = 'TGTOKEN'
 offset = 0
 group_name = None
 
